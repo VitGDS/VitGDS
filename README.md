@@ -1,4 +1,4 @@
-### Hi there 👋
+### Solitude.
 
 <!--
 **VitGDS/VitGDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![image](https://github.com/VitGDS/VitGDS/assets/145021801/b1f87c3a-376c-4280-9611-7abc82827b38)

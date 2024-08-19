@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/VitGDS/VitGDS/assets/145021801/b1f87c3a-376c-4280-9611-7abc82827b38)
